@@ -29,5 +29,28 @@ La transazione funziona come una sorta di scatola nera per mischiare monete. Ric
 ![Screenshot from 2022-04-04 00-20-41](https://user-images.githubusercontent.com/102928465/161453260-fa3258e5-1646-4e3a-a29c-a092b16dda72.png)
 
 Come appare un coinjoin visto da un block explorer (blockstream)
-    
+
+Cosa usare per fare Coinjoin?
+
+Wasabi wallet: 
+
+(ONION LINK, TOR): http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion/
+Scaricatelo usando TOR senza VPN così da essere più anonimi possibili, il wallet wasabi si connette automaticamente sempre a TOR.
+Unica pecca su Wasabi il minimo per un coinjoin è 0.1 BTC. 
+
+Joinmarket:
+
+Joinmarket è un sistema avanzato per coinjoin, 
+
+link: https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/INSTALL.md
+
+Questo consiglio di vedervelo con molta calma e inoltre bisogna avere un nodo sul pc su cui si va ad utilizzare.
+
+Samourai Wallet:
+
+Non vi metto il link perchè non è sicuro, esiste questo wallet per cellulare che mixa le monete ma è ben poco sicuro degli altri sistemi.
+
+Un'altra tecnica (per piccoli importi) è far passare i satoshi su LN per scollegare l'identità.
+
+
 
