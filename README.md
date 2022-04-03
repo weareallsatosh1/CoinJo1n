@@ -35,6 +35,7 @@ Cosa usare per fare Coinjoin?
 Wasabi wallet: 
 
 (ONION LINK, TOR): http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion/
+
 Scaricatelo usando TOR senza VPN così da essere più anonimi possibili, il wallet wasabi si connette automaticamente sempre a TOR.
 Unica pecca su Wasabi il minimo per un coinjoin è 0.1 BTC. 
 
