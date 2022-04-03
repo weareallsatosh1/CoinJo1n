@@ -1,7 +1,5 @@
 # CoinJo1n!
 
-Il coinjoin
-
 In sostanza, un CoinJoin comporta la combinazione di input da diversi utenti in una singola transazione. 
 Prima di spiegare il come (e il perché), diamo un'occhiata alla struttura di una transazione normale. 
 Le transazioni Bitcoin sono costituite da input e output. 
