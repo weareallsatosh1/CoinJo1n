@@ -30,7 +30,10 @@ La transazione funziona come una sorta di scatola nera per mischiare monete. Ric
 
 Come appare un coinjoin visto da un block explorer (blockstream)
 
+
+
 Cosa usare per fare Coinjoin?
+
 
 Wasabi wallet: 
 
